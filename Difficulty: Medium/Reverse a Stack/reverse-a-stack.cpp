@@ -1,7 +1,7 @@
 class Solution {
   public:
     void reverseStack(stack<int> &st) {
-        // code hereint
+        // code here
         int j=0;
     stack< int > s;
        int size=s.size();
